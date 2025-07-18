@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = "https://codepvg.onrender.com/upkeep";
+const URL = "https://codepvg.onrender.com/uptime";
 
 async function checkBackendStatus() {
   try {
