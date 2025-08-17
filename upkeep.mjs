@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const URL = "https://codepvg.onrender.com/uptime";
+const URL = "https://leetcode-ranking.onrender.com/uptime";
 
 async function checkBackendStatus() {
   try {
